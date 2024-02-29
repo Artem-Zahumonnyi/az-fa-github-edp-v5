@@ -1,0 +1,1 @@
+1. Application az-fa-github-edp-v5 has been successfully deployed!!
