@@ -6,7 +6,6 @@ from app import app
 client = TestClient(app)
 
 
-
 def test_read_main():
     """Returns Hello, World."""
     response = client.get("/")
